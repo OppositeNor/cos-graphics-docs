@@ -1,0 +1,7 @@
+<map id="CGIRectBoarder::GetBoarderLeftX" name="CGIRectBoarder::GetBoarderLeftX">
+<area shape="rect" id="Node000001" title="Get the x coordinate value of the left of the boarder." alt="" coords="262,23,451,65"/>
+<area shape="rect" id="Node000002" href="$class_c_g_component.html#a3590812f96c8b1ccc5c3a7b8d5b6b4ec" title="Align the left of the." alt="" coords="10,5,209,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="246,35,209,32,210,26,246,30"/>
+<area shape="rect" id="Node000003" href="$class_c_g_component.html#ab58949e11336629a759a1c2c300fc58e" title="Align the right of the component to the left of the target component." alt="" coords="5,56,214,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="247,58,214,61,214,56,246,53"/>
+</map>

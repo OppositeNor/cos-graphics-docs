@@ -1,0 +1,5 @@
+<map id="CGGame::AddComponent" name="CGGame::AddComponent">
+<area shape="rect" id="Node000001" title="Add component to the component list, and return the component&#39;s identifier." alt="" coords="253,5,425,32"/>
+<area shape="rect" id="Node000002" href="$class_c_g_component.html#a7039a86e6127262c749b27daa6b635ff" title="Construct a new CGComponent object." alt="" coords="5,5,205,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="237,21,205,21,205,16,237,16"/>
+</map>

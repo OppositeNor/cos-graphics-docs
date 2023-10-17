@@ -1,0 +1,5 @@
+<map id="CGComponent::GetBoarderBottomY" name="CGComponent::GetBoarderBottomY">
+<area shape="rect" id="Node000001" title="Get the y coordinate value of the bottom of the boarder." alt="" coords="239,5,470,32"/>
+<area shape="rect" id="Node000002" href="$class_c_g_component.html#ad322ca5cf5f2a74f04d8db1845de9bcf" title="Align the bottom of the image to the bottom of the window." alt="" coords="5,5,191,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,21,191,21,191,16,223,16"/>
+</map>

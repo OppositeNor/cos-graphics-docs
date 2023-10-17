@@ -1,0 +1,5 @@
+<map id="CGComponent::GetComponentType" name="CGComponent::GetComponentType">
+<area shape="rect" id="Node000001" title="The type of the component. The CG_COMPONENT_TYPE macro will automatically override this function." alt="" coords="220,5,449,32"/>
+<area shape="rect" id="Node000002" href="$class_c_g_component.html#aa42b53ba564fc65d92a4df867c2bd694" title="Get the label of the component." alt="" coords="5,5,172,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,21,172,21,172,16,204,16"/>
+</map>

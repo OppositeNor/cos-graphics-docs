@@ -1,0 +1,6 @@
+<map id="CGComponent::IsVisible" name="CGComponent::IsVisible">
+<area shape="rect" id="Node000001" title="Is the component visible in the game." alt="" coords="5,29,169,56"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="50,30,44,21,48,11,63,5,87,3,113,5,126,12,124,16,111,10,87,8,64,10,52,15,49,20,55,27"/>
+<area shape="rect" id="Node000002" href="$class_c_g_component.html#a9fb21e1703bec37b9f9ead7291f22192" title="Get the Parent object." alt="" coords="217,29,390,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,40,201,40,201,45,169,45"/>
+</map>

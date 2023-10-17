@@ -1,0 +1,27 @@
+<map id="CGVisualComponent::Tick" name="CGVisualComponent::Tick">
+<area shape="rect" id="Node000001" title="Called every frame by the game." alt="" coords="5,248,180,275"/>
+<area shape="rect" id="Node000002" href="$class_c_g_visual_component.html#a7f7d249d85078e2adfd7d0f476544513" title="Draw component on the window." alt="" coords="253,5,432,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,247,112,207,139,154,177,97,200,71,226,48,248,36,250,40,229,53,204,75,181,100,143,157,117,210,101,249"/>
+<area shape="rect" id="Node000003" href="$class_c_g_component.html#ac475bbcdaa7d0fe1494022d218811c9b" title="Get the global transform matrix of the component." alt="" coords="228,131,457,173"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="113,245,164,214,227,183,243,176,245,181,229,188,167,219,116,250"/>
+<area shape="rect" id="Node000004" href="$class_c_g_component.html#a773a1bf11333979e45e25f00f5e36019" title="Get the Transform object." alt="" coords="505,68,697,95"/>
+<area shape="poly" id="edge9_Node000001_Node000004" title=" " alt="" coords="97,246,114,213,142,170,179,126,202,107,226,92,262,77,299,67,376,56,450,56,516,63,515,68,450,62,376,62,300,72,264,82,229,97,205,112,183,130,146,173,119,216,102,249"/>
+<area shape="rect" id="Node000006" href="$class_c_g_game.html#ac84308eb8f33d394980647e33ee60d03" title="Get the instance of the game. If the game is not started, this will return nullptr." alt="" coords="266,197,419,224"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="161,245,258,225,259,230,163,250"/>
+<area shape="rect" id="Node000007" href="$class_c_g_game.html#a25a406165142bc25ac02151b07e06d8a" title="Get the Main Camera object." alt="" coords="254,248,431,275"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="180,259,238,259,238,264,180,264"/>
+<area shape="rect" id="Node000008" href="$class_c_g_component.html#a9fb21e1703bec37b9f9ead7291f22192" title="Get the Parent object." alt="" coords="515,361,688,388"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="166,273,458,335,535,354,534,359,456,340,165,278"/>
+<area shape="rect" id="Node000009" href="$class_c_g_component.html#aa41244f8d68f23753353eb959b5a2ea8" title="Is the component queued to free." alt="" coords="245,349,440,376"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="118,273,168,300,229,328,269,342,268,347,227,333,166,305,116,277"/>
+<area shape="rect" id="Node000010" href="$class_c_g_component.html#ab6694a2670d832d2349705c6c65f8513" title="Is the component visible in the game." alt="" coords="261,424,424,451"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="107,273,158,326,192,358,229,386,287,415,285,420,226,390,188,362,154,330,104,277"/>
+<area shape="rect" id="Node000011" href="$class_c_g_component.html#aee4544d07d4e384caec1902f83b6dafa" title="Called every frame by the engine." alt="" coords="273,475,412,501"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="101,274,117,312,144,363,181,416,204,440,229,460,260,475,257,480,226,465,200,444,177,420,139,366,112,314,96,276"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="295,131,293,121,301,112,318,106,342,104,369,106,385,113,383,118,368,112,342,109,319,111,304,116,298,122,300,130"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="423,127,534,97,535,102,424,133"/>
+<area shape="rect" id="Node000005" href="$struct_c_g_component_1_1_c_g_transform.html#a87bf31888f4409c50f618c32c4c54e26" title="Get the transform matrix of the component." alt="" coords="506,131,696,173"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="458,149,490,149,490,155,458,155"/>
+<area shape="poly" id="edge12_Node000010_Node000008" title=" " alt="" coords="400,421,528,390,529,395,401,426"/>
+<area shape="poly" id="edge13_Node000010_Node000010" title=" " alt="" coords="301,425,293,415,298,405,315,399,342,397,372,400,388,407,386,412,371,405,342,403,316,405,302,410,298,415,305,422"/>
+</map>

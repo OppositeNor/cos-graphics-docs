@@ -1,0 +1,6 @@
+<map id="CGComponent::IsVisible" name="CGComponent::IsVisible">
+<area shape="rect" id="Node000001" title="Is the component visible in the game." alt="" coords="228,29,391,56"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="347,16,334,10,309,8,287,10,274,15,271,20,277,27,273,30,266,21,271,11,285,5,309,3,335,5,349,12"/>
+<area shape="rect" id="Node000002" href="$class_c_g_visual_component.html#ad4ed470c85b1c40a445f5c47956a5503" title="Called every frame by the game." alt="" coords="5,29,180,56"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="212,45,180,45,180,40,212,40"/>
+</map>

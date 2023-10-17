@@ -1,0 +1,5 @@
+<map id="CGGameFactory::CreateRootComponent" name="CGGameFactory::CreateRootComponent">
+<area shape="rect" id="Node000001" title="Create a root component of the game." alt="" coords="200,5,392,48"/>
+<area shape="rect" id="Node000002" href="$class_c_g_game.html#a8c82d35fc505a0fc14d473165d7417e1" title="Start the game." alt="" coords="5,13,152,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,29,152,29,152,24,184,24"/>
+</map>

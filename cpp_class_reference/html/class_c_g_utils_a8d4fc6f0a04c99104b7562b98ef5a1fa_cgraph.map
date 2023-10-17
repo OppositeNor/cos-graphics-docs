@@ -1,0 +1,7 @@
+<map id="CGUtils::CreateVisualImageList" name="CGUtils::CreateVisualImageList">
+<area shape="rect" id="Node000001" title="Create a list of CGVisualImage* from a list of image resource keys." alt="" coords="5,31,210,57"/>
+<area shape="rect" id="Node000002" href="$class_c_g_game.html#af7c07f1b7b2d110a87cda5c1c95541f7" title="Get the instance of the game window." alt="" coords="258,5,443,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,31,242,27,242,33,210,36"/>
+<area shape="rect" id="Node000003" href="$class_c_g_game.html#ac84308eb8f33d394980647e33ee60d03" title="Get the instance of the game. If the game is not started, this will return nullptr." alt="" coords="274,56,427,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="210,52,259,57,258,62,210,57"/>
+</map>

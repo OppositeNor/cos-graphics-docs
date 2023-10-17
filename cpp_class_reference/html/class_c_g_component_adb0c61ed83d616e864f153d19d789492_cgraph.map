@@ -1,0 +1,10 @@
+<map id="CGComponent::GetInvGlobalTransformMatrix" name="CGComponent::GetInvGlobalTransformMatrix">
+<area shape="rect" id="Node000001" title="Get the inverse global transform matrix of the component." alt="" coords="5,35,193,77"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="54,35,52,25,60,16,75,10,99,8,124,10,140,17,138,22,123,16,99,13,77,15,63,20,57,26,59,34"/>
+<area shape="rect" id="Node000002" href="$struct_c_g_component_1_1_c_g_transform.html#a8602a555de4d72d5091fd36ba441d400" title="Get the inverse transform matrix of the component." alt="" coords="242,5,432,48"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="193,42,226,38,227,43,194,47"/>
+<area shape="rect" id="Node000004" href="$class_c_g_component.html#a773a1bf11333979e45e25f00f5e36019" title="Get the Transform object." alt="" coords="241,72,433,99"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="194,65,225,69,225,74,193,70"/>
+<area shape="rect" id="Node000003" href="$class_c_g_utils.html#a0073e658cd5ea41aa5edf007c4cdb8c5" title="Get the reciprocal of a number." alt="" coords="481,13,637,40"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="433,24,465,24,465,29,433,29"/>
+</map>

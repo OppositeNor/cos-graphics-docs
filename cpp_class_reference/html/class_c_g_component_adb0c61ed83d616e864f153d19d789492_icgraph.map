@@ -1,0 +1,8 @@
+<map id="CGComponent::GetInvGlobalTransformMatrix" name="CGComponent::GetInvGlobalTransformMatrix">
+<area shape="rect" id="Node000001" title="Get the inverse global transform matrix of the component." alt="" coords="274,29,461,72"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="408,16,393,10,367,8,343,10,329,15,323,21,325,28,320,29,318,19,326,10,342,5,367,3,394,5,410,11"/>
+<area shape="rect" id="Node000002" href="$class_c_g_component.html#ad86947b500f1131a9e37d9124ce8691b" title="Set the global position of the component." alt="" coords="6,12,225,39"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="258,42,225,39,226,34,258,37"/>
+<area shape="rect" id="Node000003" href="$class_c_g_component.html#a936840359b0c13cc2b77cde101c4e808" title="Convert a global position to a relative position." alt="" coords="5,63,226,89"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="259,64,226,68,226,62,258,59"/>
+</map>

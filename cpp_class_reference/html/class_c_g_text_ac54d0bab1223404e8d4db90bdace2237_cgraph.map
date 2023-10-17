@@ -1,0 +1,7 @@
+<map id="CGText::CGText" name="CGText::CGText">
+<area shape="rect" id="Node000001" title="Constructor of CGText." alt="" coords="5,31,123,57"/>
+<area shape="rect" id="Node000002" href="$class_c_g_game.html#af7c07f1b7b2d110a87cda5c1c95541f7" title="Get the instance of the game window." alt="" coords="171,5,356,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,34,155,30,156,35,124,39"/>
+<area shape="rect" id="Node000003" href="$class_c_g_game.html#ac84308eb8f33d394980647e33ee60d03" title="Get the instance of the game. If the game is not started, this will return nullptr." alt="" coords="187,56,340,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="124,49,172,55,171,60,123,54"/>
+</map>

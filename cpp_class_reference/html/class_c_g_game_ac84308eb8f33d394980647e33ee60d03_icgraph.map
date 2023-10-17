@@ -1,0 +1,31 @@
+<map id="CGGame::GetInstance" name="CGGame::GetInstance">
+<area shape="rect" id="Node000001" title="Get the instance of the game. If the game is not started, this will return nullptr." alt="" coords="258,335,411,361"/>
+<area shape="rect" id="Node000002" href="$class_c_g_component.html#ad322ca5cf5f2a74f04d8db1845de9bcf" title="Align the bottom of the image to the bottom of the window." alt="" coords="15,5,200,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="327,320,317,262,296,188,281,149,261,111,237,76,208,46,190,35,193,30,211,42,241,73,266,108,285,147,301,186,322,261,333,319"/>
+<area shape="rect" id="Node000003" href="$class_c_g_component.html#a4f51464aee8a3886b82131a3cf8ec387" title="Align the left of the image to the left of the window." alt="" coords="25,56,190,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="325,320,312,271,289,211,255,149,233,121,208,97,189,85,191,81,211,93,237,117,259,146,294,209,317,270,330,319"/>
+<area shape="rect" id="Node000004" href="$class_c_g_component.html#ae8fc77fdc1623b57920f5f3a2ca3367f" title="Align the right of the image to the right of the window." alt="" coords="21,107,194,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="321,321,305,281,281,234,249,187,208,147,188,136,190,132,211,143,253,184,286,232,310,279,326,319"/>
+<area shape="rect" id="Node000005" href="$class_c_g_component.html#aedd03948c4daf2f00acee2320f8dd7cb" title="Align the top of the image to the top of the window." alt="" coords="25,157,190,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="316,323,273,259,243,226,208,198,185,187,188,182,211,194,247,222,277,256,321,320"/>
+<area shape="rect" id="Node000006" href="$class_c_g_component.html#a7039a86e6127262c749b27daa6b635ff" title="Construct a new CGComponent object." alt="" coords="8,208,207,235"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="308,326,264,286,208,249,180,238,182,233,211,244,268,282,312,322"/>
+<area shape="rect" id="Node000007" href="$class_c_g_sprite.html#ae18f505867e60f75cafe27ae299b6308" title="Construct a new CGSprite object." alt="" coords="40,259,175,285"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="288,331,209,300,169,288,171,283,211,295,290,326"/>
+<area shape="rect" id="Node000008" href="$class_c_g_text.html#a50937c4825f57a6bdda65bda53c3f0fe" title="Constructor of CGText." alt="" coords="49,309,166,336"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="242,340,166,332,167,327,242,335"/>
+<area shape="rect" id="Node000009" href="$class_c_g_text.html#ac54d0bab1223404e8d4db90bdace2237" title="Constructor of CGText." alt="" coords="49,360,166,387"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="242,361,167,369,166,364,242,356"/>
+<area shape="rect" id="Node000010" href="$class_c_g_utils.html#a8d4fc6f0a04c99104b7562b98ef5a1fa" title="Create a list of CGVisualImage* from a list of image resource keys." alt="" coords="5,411,210,437"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="290,370,211,401,171,413,169,408,209,396,288,365"/>
+<area shape="rect" id="Node000011" href="$class_c_g_sprite.html#a2574d07adce8e53128d55dc4a54695a4" title="Draw component on the window." alt="" coords="52,461,163,488"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="312,374,268,414,211,452,165,468,163,463,208,447,264,410,308,370"/>
+<area shape="rect" id="Node000012" href="$class_c_g_text.html#aab9f68d68ef6e62550a7d4f5aa538e8d" title="Draw component on the window." alt="" coords="56,512,159,539"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="321,376,277,440,247,474,211,502,186,514,160,522,158,517,184,509,208,498,243,470,273,437,316,373"/>
+<area shape="rect" id="Node000013" href="$class_c_g_animation_sprite.html#a896bf53cf971fae2545ae41764f09541" title="Draw component on the window." alt="" coords="23,563,192,589"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="326,377,310,417,286,464,253,512,211,553,190,564,188,560,208,549,249,509,281,462,305,415,321,375"/>
+<area shape="rect" id="Node000014" href="$class_c_g_visual_component.html#ad4ed470c85b1c40a445f5c47956a5503" title="Called every frame by the game." alt="" coords="20,613,195,640"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="330,377,317,426,294,487,259,550,237,579,211,603,192,615,190,610,208,599,233,575,255,547,289,485,312,425,325,376"/>
+<area shape="rect" id="Node000015" href="$class_c_g_camera.html#a7562dd5dd9f8de019ad693425e2b09cb" title="Use this camera as the main camera of the game." alt="" coords="49,664,166,691"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="333,377,322,435,301,510,285,549,266,588,241,623,211,654,190,667,167,675,165,670,188,662,208,650,237,620,261,585,281,547,296,508,317,434,327,376"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="CGComponent::GetGlobalPosition" name="CGComponent::GetGlobalPosition">
+<area shape="rect" id="Node000001" title="Get the global position of the component." alt="" coords="5,35,225,61"/>
+<area shape="rect" id="Node000002" href="$class_c_g_component.html#ac475bbcdaa7d0fe1494022d218811c9b" title="Get the global transform matrix of the component." alt="" coords="273,68,502,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,59,258,67,257,72,207,65"/>
+<area shape="rect" id="Node000003" href="$class_c_g_component.html#a773a1bf11333979e45e25f00f5e36019" title="Get the Transform object." alt="" coords="550,5,742,32"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="225,33,272,29,534,18,535,23,273,35,225,39"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="339,68,337,58,345,49,362,43,387,41,415,44,431,50,430,55,414,49,387,47,363,49,348,53,342,59,344,67"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="468,65,579,34,580,39,469,70"/>
+<area shape="rect" id="Node000004" href="$struct_c_g_component_1_1_c_g_transform.html#a87bf31888f4409c50f618c32c4c54e26" title="Get the transform matrix of the component." alt="" coords="551,68,741,111"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="503,87,535,87,535,92,503,92"/>
+</map>

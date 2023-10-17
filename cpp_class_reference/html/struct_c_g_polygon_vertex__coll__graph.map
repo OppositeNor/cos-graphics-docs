@@ -1,0 +1,6 @@
+<map id="CGPolygonVertex" name="CGPolygonVertex">
+<area shape="rect" id="Node000001" title="A vertex node of a polygon." alt="" coords="5,99,131,125"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="148,103,157,112,149,120,132,123,131,118,147,116,152,112,144,108"/>
+<area shape="rect" id="Node000002" href="$struct_c_g_vector2.html" title="2D vector" alt="" coords="25,5,111,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,48,71,98,65,98,65,48"/>
+</map>

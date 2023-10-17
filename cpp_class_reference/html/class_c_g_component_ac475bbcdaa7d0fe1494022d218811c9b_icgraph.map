@@ -1,0 +1,34 @@
+<map id="CGComponent::GetGlobalTransformMatrix" name="CGComponent::GetGlobalTransformMatrix">
+<area shape="rect" id="Node000001" title="Get the global transform matrix of the component." alt="" coords="541,371,770,413"/>
+<area shape="poly" id="edge14_Node000001_Node000001" title=" " alt="" coords="700,358,684,352,656,349,630,351,614,356,608,362,610,369,604,371,602,361,611,352,629,346,656,344,685,346,702,353"/>
+<area shape="rect" id="Node000002" href="$class_c_g_component.html#a0bd8ef7da7cc8f5319caf526d086f7f5" title="Get the global position of the component." alt="" coords="274,328,493,355"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="525,370,459,358,460,353,526,365"/>
+<area shape="rect" id="Node000015" href="$class_c_g_visual_component.html#ad4ed470c85b1c40a445f5c47956a5503" title="Called every frame by the game." alt="" coords="296,379,471,405"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="526,395,471,395,471,389,526,389"/>
+<area shape="rect" id="Node000016" href="$class_c_g_component.html#ab3a0ebc93e8616311f1a873cd6f8bf6f" title="Convert a relative position to a global position." alt="" coords="277,429,490,456"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="526,419,460,431,459,426,525,414"/>
+<area shape="rect" id="Node000003" href="$class_c_g_component.html#ad322ca5cf5f2a74f04d8db1845de9bcf" title="Align the bottom of the image to the bottom of the window." alt="" coords="23,5,208,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="373,314,356,256,327,184,307,146,283,109,256,75,224,46,205,35,207,30,227,42,260,71,288,106,311,143,331,181,361,255,378,312"/>
+<area shape="rect" id="Node000004" href="$class_c_g_component.html#a018115f93868ae08bde6a51679cc5d78" title="Align the bottom of the image to the bottom of a target component." alt="" coords="23,56,208,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="368,315,347,270,316,216,274,160,250,135,224,113,205,102,208,97,227,108,254,131,279,157,320,213,352,268,373,313"/>
+<area shape="rect" id="Node000005" href="$class_c_g_component.html#a372da70edee5baea62236e3d5e5fb718" title="Align the bottom of the image to the top of a target component." alt="" coords="23,123,208,165"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="362,317,305,248,267,211,224,180,202,168,204,163,227,175,270,207,309,245,366,314"/>
+<area shape="rect" id="Node000006" href="$class_c_g_component.html#a4f51464aee8a3886b82131a3cf8ec387" title="Align the left of the image to the left of the window." alt="" coords="33,189,198,216"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="354,320,297,274,262,250,225,230,193,219,195,214,227,226,265,246,300,269,358,315"/>
+<area shape="rect" id="Node000007" href="$class_c_g_component.html#a3590812f96c8b1ccc5c3a7b8d5b6b4ec" title="Align the left of the." alt="" coords="16,240,215,267"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="337,324,225,281,183,270,185,265,226,276,339,319"/>
+<area shape="rect" id="Node000008" href="$class_c_g_component.html#adf354f7fb474e89778d66d8434b5fa2d" title="Align the left of the image to the right of a target component." alt="" coords="26,291,205,333"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="258,330,205,324,205,319,259,325"/>
+<area shape="rect" id="Node000009" href="$class_c_g_component.html#ae8fc77fdc1623b57920f5f3a2ca3367f" title="Align the right of the image to the right of the window." alt="" coords="29,357,202,384"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="259,358,203,364,202,359,258,352"/>
+<area shape="rect" id="Node000010" href="$class_c_g_component.html#ab58949e11336629a759a1c2c300fc58e" title="Align the right of the component to the left of the target component." alt="" coords="11,408,220,435"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="295,362,275,369,251,384,227,398,192,410,190,405,225,394,248,379,273,364,293,357"/>
+<area shape="rect" id="Node000011" href="$class_c_g_component.html#a5f70a49bd8dd4fd8398a3dbca3172d88" title="Align the left of the image to the left of the target component." alt="" coords="22,459,209,501"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="282,364,275,369,259,387,252,407,245,428,227,449,209,460,206,456,224,445,240,426,247,405,254,385,272,365,279,360"/>
+<area shape="rect" id="Node000012" href="$class_c_g_component.html#aedd03948c4daf2f00acee2320f8dd7cb" title="Align the top of the image to the top of the window." alt="" coords="33,525,198,552"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="279,365,276,369,261,386,255,403,252,440,250,478,242,497,227,515,200,532,197,527,224,511,238,494,245,477,247,440,249,402,257,383,272,365,276,361"/>
+<area shape="rect" id="Node000013" href="$class_c_g_component.html#ace01277d7730c083b8a249b6fac2f3bc" title="Align the top of the image to the bottom of a target component." alt="" coords="5,576,226,603"/>
+<area shape="poly" id="edge12_Node000002_Node000013" title=" " alt="" coords="279,366,276,368,258,392,251,416,250,440,252,465,255,490,254,516,246,541,228,566,212,578,209,573,224,562,241,539,249,515,249,490,247,466,245,440,246,415,253,390,272,365,275,362"/>
+<area shape="rect" id="Node000014" href="$class_c_g_component.html#a6c2936609f256df2d47693034ca8d635" title="Align the top of the image to the bottom of a target component." alt="" coords="16,627,215,653"/>
+<area shape="poly" id="edge13_Node000002_Node000014" title=" " alt="" coords="279,366,276,368,255,398,247,428,247,459,252,490,257,522,258,554,249,585,228,616,213,628,209,624,224,613,244,583,252,553,252,522,247,491,242,460,242,428,250,396,272,365,275,362"/>
+</map>

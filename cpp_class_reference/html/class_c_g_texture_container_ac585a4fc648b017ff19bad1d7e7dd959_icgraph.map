@@ -1,0 +1,5 @@
+<map id="CGTextureContainer::GetBoarderRightX" name="CGTextureContainer::GetBoarderRightX">
+<area shape="rect" id="Node000001" title="Get the x coordinate value of the right of the boarder." alt="" coords="192,5,330,48"/>
+<area shape="rect" id="Node000002" href="$class_c_g_texture_container.html#a9381093ef0b96103ba79fc8816e88b81" title="Get the width of the visual component." alt="" coords="5,5,144,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,29,144,29,144,24,176,24"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="CGSprite::Draw" name="CGSprite::Draw">
+<area shape="rect" id="Node000001" title="Draw component on the window." alt="" coords="5,35,117,61"/>
+<area shape="rect" id="Node000002" href="$class_c_g_game.html#ac84308eb8f33d394980647e33ee60d03" title="Get the instance of the game. If the game is not started, this will return nullptr." alt="" coords="165,5,318,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,36,149,31,150,36,118,42"/>
+<area shape="rect" id="Node000003" href="$class_c_g_visual_component.html#a4e343f8fc73e000d9f30d54a30e0e504" title="Get the render property for objects to render." alt="" coords="166,56,317,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="118,54,151,60,151,65,117,60"/>
+</map>

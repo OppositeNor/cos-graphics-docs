@@ -1,0 +1,8 @@
+<map id="CGTriangleListNode" name="CGTriangleListNode">
+<area shape="rect" id="Node000001" title="A list node for triangles." alt="" coords="5,235,142,261"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="159,240,168,248,160,256,143,259,142,254,158,251,163,248,155,244"/>
+<area shape="rect" id="Node000002" href="$struct_c_g_triangle.html" title="Triangle." alt="" coords="31,144,116,171"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,186,76,234,71,234,71,186"/>
+<area shape="rect" id="Node000003" href="$struct_c_g_vector2.html" title="2D vector" alt="" coords="31,5,116,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="76,48,76,143,71,143,71,48"/>
+</map>

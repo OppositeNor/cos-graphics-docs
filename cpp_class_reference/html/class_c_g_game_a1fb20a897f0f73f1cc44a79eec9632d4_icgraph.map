@@ -1,0 +1,5 @@
+<map id="CGGame::SetMainCamera" name="CGGame::SetMainCamera">
+<area shape="rect" id="Node000001" title="Use the camera as the main camera." alt="" coords="170,5,346,32"/>
+<area shape="rect" id="Node000002" href="$class_c_g_camera.html#a7562dd5dd9f8de019ad693425e2b09cb" title="Use this camera as the main camera of the game." alt="" coords="5,5,122,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,21,122,21,122,16,154,16"/>
+</map>

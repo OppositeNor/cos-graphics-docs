@@ -1,0 +1,17 @@
+<map id="D:/Programming/cos&#45;graphics/include/cos_graphics/component/component.h" name="D:/Programming/cos&#45;graphics/include/cos_graphics/component/component.h">
+<area shape="rect" id="Node000001" title="The base class for all the components in the game." alt="" coords="211,5,435,64"/>
+<area shape="rect" id="Node000002" href="$camera_8h_source.html" title=" " alt="" coords="5,120,209,179"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="256,74,163,122,161,117,253,69"/>
+<area shape="rect" id="Node000003" href="$visual__component_8h_source.html" title=" " alt="" coords="232,112,414,187"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="326,79,326,112,320,112,320,79"/>
+<area shape="rect" id="Node000008" href="$utils_8hpp_source.html" title=" " alt="" coords="438,120,582,179"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="385,70,464,117,461,122,382,75"/>
+<area shape="rect" id="Node000004" href="$animation__sprite_8h_source.html" title=" " alt="" coords="110,235,315,309"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="281,200,248,236,244,232,277,197"/>
+<area shape="rect" id="Node000005" href="$texture__container_8h_source.html" title=" " alt="" coords="339,235,528,309"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="369,197,402,232,398,236,365,200"/>
+<area shape="rect" id="Node000006" href="$sprite_8h_source.html" title=" " alt="" coords="231,357,423,416"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="391,322,356,359,352,355,387,319"/>
+<area shape="rect" id="Node000007" href="$text_8h_source.html" title=" " alt="" coords="448,357,630,416"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="480,319,514,355,510,359,476,322"/>
+</map>

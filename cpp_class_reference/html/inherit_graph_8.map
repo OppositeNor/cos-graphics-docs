@@ -1,0 +1,19 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$class_c_g_i_rect_shape.html" title="Interface for rectangluar shapes." alt="" coords="5,31,113,57"/>
+<area shape="rect" id="Node000001" href="$class_c_g_i_rect_boarder.html" title="Interface for objects that can be enclosed by a boarder." alt="" coords="161,31,276,57"/>
+<area shape="poly" id="edge1_Node000000_Node000001" title=" " alt="" coords="128,41,161,41,161,47,128,47"/>
+<area shape="rect" id="Node000002" href="$class_c_g_component.html" title=" " alt="" coords="324,31,430,57"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="292,41,323,41,323,47,292,47"/>
+<area shape="rect" id="Node000003" href="$class_c_g_camera.html" title="The camera of the game." alt="" coords="507,5,592,32"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="445,31,506,22,507,28,446,37"/>
+<area shape="rect" id="Node000004" href="$class_c_g_visual_component.html" title="Visual component is the base class for all objects that are visible in the game world." alt="" coords="478,56,621,83"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="446,51,479,56,478,62,445,57"/>
+<area shape="rect" id="Node000005" href="$class_c_g_animation_sprite.html" title="A component that displays an animation." alt="" coords="672,31,804,57"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="636,55,671,50,671,56,636,60"/>
+<area shape="rect" id="Node000006" href="$class_c_g_texture_container.html" title="The texture container component. It can contain a texture." alt="" coords="669,81,807,108"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="636,78,668,83,668,88,636,84"/>
+<area shape="rect" id="Node000007" href="$class_c_g_sprite.html" title="The sprite component. It can be used to render a component with a texture." alt="" coords="855,56,929,83"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="822,78,854,73,855,78,823,83"/>
+<area shape="rect" id="Node000008" href="$class_c_g_text.html" title="A text that can be rendered on the screen." alt="" coords="860,107,925,133"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="823,106,859,112,858,117,822,111"/>
+</map>

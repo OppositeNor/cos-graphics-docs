@@ -1,0 +1,5 @@
+<map id="CGComponent::GetBoarderLeftX" name="CGComponent::GetBoarderLeftX">
+<area shape="rect" id="Node000001" title="Get the x coordinate value of the left of the boarder." alt="" coords="218,5,426,32"/>
+<area shape="rect" id="Node000002" href="$class_c_g_component.html#a4f51464aee8a3886b82131a3cf8ec387" title="Align the left of the image to the left of the window." alt="" coords="5,5,170,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,21,170,21,170,16,202,16"/>
+</map>

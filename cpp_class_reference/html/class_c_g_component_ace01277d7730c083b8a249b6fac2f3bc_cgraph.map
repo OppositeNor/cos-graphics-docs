@@ -1,0 +1,19 @@
+<map id="CGComponent::AlignTopToBottom" name="CGComponent::AlignTopToBottom">
+<area shape="rect" id="Node000001" title="Align the top of the image to the bottom of a target component." alt="" coords="5,97,226,124"/>
+<area shape="rect" id="Node000002" href="$class_c_g_i_rect_boarder.html#a1a7a9ffc809389087904459409adfbfe" title="Get the y coordinate value of the bottom of the boarder." alt="" coords="289,5,478,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,94,273,57,295,51,297,56,274,63,160,99"/>
+<area shape="rect" id="Node000003" href="$class_c_g_component.html#a62dadc7de88a2363d85baa20eab7c962" title="Get the height of the boarder." alt="" coords="275,72,492,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="226,98,259,94,259,100,226,103"/>
+<area shape="rect" id="Node000004" href="$class_c_g_component.html#a0bd8ef7da7cc8f5319caf526d086f7f5" title="Get the global position of the component." alt="" coords="274,123,493,149"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="226,118,259,122,258,127,226,124"/>
+<area shape="rect" id="Node000008" href="$class_c_g_component.html#a104c7e7e3b5a55ad9b9aede5f3c4eadb" title="Set the Global Position object." alt="" coords="274,173,493,200"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="157,122,274,159,304,167,303,172,273,164,156,127"/>
+<area shape="rect" id="Node000005" href="$class_c_g_component.html#ac475bbcdaa7d0fe1494022d218811c9b" title="Get the global transform matrix of the component." alt="" coords="541,156,770,199"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="476,147,526,155,525,160,476,153"/>
+<area shape="rect" id="Node000006" href="$class_c_g_component.html#a773a1bf11333979e45e25f00f5e36019" title="Get the Transform object." alt="" coords="818,93,1011,120"/>
+<area shape="poly" id="edge8_Node000004_Node000006" title=" " alt="" coords="493,121,541,117,803,106,803,111,541,123,494,127"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="607,156,605,146,613,137,630,131,656,129,683,132,700,138,698,143,682,137,656,135,631,137,616,141,610,147,612,155"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="736,153,847,122,849,127,737,158"/>
+<area shape="rect" id="Node000007" href="$struct_c_g_component_1_1_c_g_transform.html#a87bf31888f4409c50f618c32c4c54e26" title="Get the transform matrix of the component." alt="" coords="819,156,1010,199"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="771,175,804,175,804,180,771,180"/>
+</map>

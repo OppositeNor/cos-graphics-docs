@@ -1,0 +1,5 @@
+<map id="CGComponent::DetachChild" name="CGComponent::DetachChild">
+<area shape="rect" id="Node000001" title="Detach a child from the component." alt="" coords="226,5,410,32"/>
+<area shape="rect" id="Node000002" href="$class_c_g_component.html#af6c1b91b9f48553d81244bb40f77af61" title="Set the Parent object." alt="" coords="5,5,178,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,21,178,21,178,16,210,16"/>
+</map>

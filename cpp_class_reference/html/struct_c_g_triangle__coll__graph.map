@@ -1,0 +1,5 @@
+<map id="CGTriangle" name="CGTriangle">
+<area shape="rect" id="Node000001" title="Triangle." alt="" coords="5,144,91,171"/>
+<area shape="rect" id="Node000002" href="$struct_c_g_vector2.html" title="2D vector" alt="" coords="5,5,91,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="51,48,51,143,45,143,45,48"/>
+</map>

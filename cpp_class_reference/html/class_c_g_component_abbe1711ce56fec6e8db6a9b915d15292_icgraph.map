@@ -1,0 +1,5 @@
+<map id="CGComponent::GetBoarderRightX" name="CGComponent::GetBoarderRightX">
+<area shape="rect" id="Node000001" title="Get the x coordinate value of the right of the boarder." alt="" coords="227,5,444,32"/>
+<area shape="rect" id="Node000002" href="$class_c_g_component.html#ae8fc77fdc1623b57920f5f3a2ca3367f" title="Align the right of the image to the right of the window." alt="" coords="5,5,179,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,21,179,21,179,16,211,16"/>
+</map>

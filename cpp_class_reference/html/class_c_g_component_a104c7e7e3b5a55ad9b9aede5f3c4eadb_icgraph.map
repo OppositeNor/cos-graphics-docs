@@ -1,0 +1,27 @@
+<map id="CGComponent::SetGlobalPosition" name="CGComponent::SetGlobalPosition">
+<area shape="rect" id="Node000001" title="Set the Global Position object." alt="" coords="274,328,492,355"/>
+<area shape="rect" id="Node000002" href="$class_c_g_component.html#ad322ca5cf5f2a74f04d8db1845de9bcf" title="Align the bottom of the image to the bottom of the window." alt="" coords="23,5,208,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="372,314,356,256,326,184,307,146,283,109,256,75,224,46,205,35,207,30,227,42,260,71,287,106,311,143,331,181,361,255,378,312"/>
+<area shape="rect" id="Node000003" href="$class_c_g_component.html#a018115f93868ae08bde6a51679cc5d78" title="Align the bottom of the image to the bottom of a target component." alt="" coords="23,56,208,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="368,315,347,270,315,216,274,160,250,135,224,113,205,102,208,97,227,108,254,131,278,157,320,213,352,268,373,313"/>
+<area shape="rect" id="Node000004" href="$class_c_g_component.html#a372da70edee5baea62236e3d5e5fb718" title="Align the bottom of the image to the top of a target component." alt="" coords="23,123,208,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="362,317,305,248,267,211,224,180,202,168,204,163,227,175,270,207,309,245,366,314"/>
+<area shape="rect" id="Node000005" href="$class_c_g_component.html#a4f51464aee8a3886b82131a3cf8ec387" title="Align the left of the image to the left of the window." alt="" coords="33,189,198,216"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="354,320,297,274,262,250,225,230,193,219,195,214,227,226,264,246,300,269,357,315"/>
+<area shape="rect" id="Node000006" href="$class_c_g_component.html#a3590812f96c8b1ccc5c3a7b8d5b6b4ec" title="Align the left of the." alt="" coords="16,240,215,267"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="336,324,225,281,183,270,185,265,226,276,338,319"/>
+<area shape="rect" id="Node000007" href="$class_c_g_component.html#adf354f7fb474e89778d66d8434b5fa2d" title="Align the left of the image to the right of a target component." alt="" coords="26,291,205,333"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="258,330,205,324,206,319,258,325"/>
+<area shape="rect" id="Node000008" href="$class_c_g_component.html#ae8fc77fdc1623b57920f5f3a2ca3367f" title="Align the right of the image to the right of the window." alt="" coords="29,357,202,384"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="258,358,203,364,203,358,258,352"/>
+<area shape="rect" id="Node000009" href="$class_c_g_component.html#ab58949e11336629a759a1c2c300fc58e" title="Align the right of the component to the left of the target component." alt="" coords="11,408,220,435"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="332,363,226,399,183,410,181,405,225,393,330,358"/>
+<area shape="rect" id="Node000010" href="$class_c_g_component.html#a5f70a49bd8dd4fd8398a3dbca3172d88" title="Align the left of the image to the left of the target component." alt="" coords="22,459,209,501"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="354,367,297,408,227,449,199,461,197,456,224,444,294,404,351,362"/>
+<area shape="rect" id="Node000011" href="$class_c_g_component.html#aedd03948c4daf2f00acee2320f8dd7cb" title="Align the top of the image to the top of the window." alt="" coords="33,525,198,552"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="368,369,344,403,312,443,272,482,227,516,199,528,197,523,224,511,269,478,308,439,340,400,363,366"/>
+<area shape="rect" id="Node000012" href="$class_c_g_component.html#ace01277d7730c083b8a249b6fac2f3bc" title="Align the top of the image to the bottom of a target component." alt="" coords="5,576,226,603"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="373,370,352,413,320,467,279,521,254,545,227,566,205,578,202,573,224,562,251,541,275,517,316,464,347,411,368,367"/>
+<area shape="rect" id="Node000013" href="$class_c_g_component.html#a6c2936609f256df2d47693034ca8d635" title="Align the top of the image to the bottom of a target component." alt="" coords="16,627,215,653"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="376,370,358,423,328,490,285,559,258,590,227,617,207,629,204,624,224,612,254,586,280,556,323,488,353,421,371,369"/>
+</map>

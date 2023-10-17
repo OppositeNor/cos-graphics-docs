@@ -1,0 +1,5 @@
+<map id="CGComponent::IsQueueFreed" name="CGComponent::IsQueueFreed">
+<area shape="rect" id="Node000001" title="Is the component queued to free." alt="" coords="228,5,423,32"/>
+<area shape="rect" id="Node000002" href="$class_c_g_visual_component.html#ad4ed470c85b1c40a445f5c47956a5503" title="Called every frame by the game." alt="" coords="5,5,180,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,21,180,21,180,16,212,16"/>
+</map>

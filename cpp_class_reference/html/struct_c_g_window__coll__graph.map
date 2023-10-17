@@ -1,0 +1,8 @@
+<map id="CGWindow" name="CGWindow">
+<area shape="rect" id="Node000001" title="Window." alt="" coords="138,96,224,123"/>
+<area shape="rect" id="Node000002" href="$struct_c_g_linked_list_node.html" title=" " alt="" coords="5,5,135,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,40,166,93,163,98,96,44"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="151,10,161,19,153,27,135,30,135,24,151,22,156,19,148,15"/>
+<area shape="rect" id="Node000003" href="$struct_c_g_window_sub_property.html" title="Window subproperty." alt="" coords="212,5,371,32"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="266,44,198,98,195,93,262,40"/>
+</map>

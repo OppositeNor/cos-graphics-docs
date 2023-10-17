@@ -1,0 +1,7 @@
+<map id="CGTextureContainer::GetBoarderWidth" name="CGTextureContainer::GetBoarderWidth">
+<area shape="rect" id="Node000001" title="Get the width of the visual component." alt="" coords="5,39,144,81"/>
+<area shape="rect" id="Node000002" href="$class_c_g_texture_container.html#a7a68472e7997a2915cd5de3f493cbd51" title="Get the x coordinate value of the left of the boarder." alt="" coords="192,5,330,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,45,176,39,177,44,145,50"/>
+<area shape="rect" id="Node000003" href="$class_c_g_texture_container.html#ac585a4fc648b017ff19bad1d7e7dd959" title="Get the x coordinate value of the right of the boarder." alt="" coords="192,72,330,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="145,70,177,76,176,81,144,75"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="CGUtils::GetReciprocal" name="CGUtils::GetReciprocal">
+<area shape="rect" id="Node000001" title="Get the reciprocal of a number." alt="" coords="747,67,904,93"/>
+<area shape="rect" id="Node000002" href="$struct_c_g_component_1_1_c_g_transform.html#a8602a555de4d72d5091fd36ba441d400" title="Get the inverse transform matrix of the component." alt="" coords="509,59,699,101"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="732,83,700,83,700,77,732,77"/>
+<area shape="rect" id="Node000003" href="$class_c_g_component.html#adb0c61ed83d616e864f153d19d789492" title="Get the inverse global transform matrix of the component." alt="" coords="274,29,461,72"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="493,69,461,65,462,60,494,64"/>
+<area shape="rect" id="Node000005" href="$class_c_g_component.html#a936840359b0c13cc2b77cde101c4e808" title="Convert a global position to a relative position." alt="" coords="5,92,226,119"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="494,88,226,102,226,97,493,83"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="406,16,391,10,367,8,345,10,331,15,326,21,328,28,322,29,321,19,328,10,344,5,367,3,393,5,408,11"/>
+<area shape="rect" id="Node000004" href="$class_c_g_component.html#ad86947b500f1131a9e37d9124ce8691b" title="Set the global position of the component." alt="" coords="6,37,225,64"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="258,53,225,53,225,48,258,48"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="259,77,181,94,180,89,258,72"/>
+</map>

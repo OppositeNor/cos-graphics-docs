@@ -1,0 +1,14 @@
+<map id="CGComponent::ToRelativePosition" name="CGComponent::ToRelativePosition">
+<area shape="rect" id="Node000001" title="Convert a global position to a relative position." alt="" coords="5,57,226,83"/>
+<area shape="rect" id="Node000002" href="$class_c_g_component.html#adb0c61ed83d616e864f153d19d789492" title="Get the inverse global transform matrix of the component." alt="" coords="274,49,461,91"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,67,258,67,258,73,226,73"/>
+<area shape="rect" id="Node000003" href="$struct_c_g_component_1_1_c_g_transform.html#a8602a555de4d72d5091fd36ba441d400" title="Get the inverse transform matrix of the component." alt="" coords="510,19,700,62"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="144,53,203,29,273,10,330,4,388,3,495,15,495,20,387,9,330,9,274,15,205,35,146,58"/>
+<area shape="rect" id="Node000005" href="$class_c_g_component.html#a773a1bf11333979e45e25f00f5e36019" title="Get the Transform object." alt="" coords="509,101,701,127"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="171,81,274,101,387,110,493,112,493,118,387,115,273,106,170,86"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="322,48,320,38,328,29,344,24,367,22,393,24,408,30,406,35,391,29,367,27,345,29,331,34,326,40,327,47"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="461,56,494,51,495,57,462,61"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="462,85,515,94,514,100,461,90"/>
+<area shape="rect" id="Node000004" href="$class_c_g_utils.html#a0073e658cd5ea41aa5edf007c4cdb8c5" title="Get the reciprocal of a number." alt="" coords="749,27,906,54"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="701,38,734,38,734,43,701,43"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="CGIRectBoarder::GetBoarderTopY" name="CGIRectBoarder::GetBoarderTopY">
+<area shape="rect" id="Node000001" title="Get the y coordinate value of the top of the boarder." alt="" coords="253,43,472,69"/>
+<area shape="rect" id="Node000002" href="$class_c_g_component.html#a372da70edee5baea62236e3d5e5fb718" title="Align the bottom of the image to the top of a target component." alt="" coords="12,5,198,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="237,44,198,40,199,35,238,39"/>
+<area shape="rect" id="Node000003" href="$class_c_g_component.html#a6c2936609f256df2d47693034ca8d635" title="Align the top of the image to the bottom of a target component." alt="" coords="5,72,205,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="237,73,205,77,205,71,237,68"/>
+</map>
